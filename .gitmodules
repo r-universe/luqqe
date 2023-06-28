@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dtt"]
 	path = dtt
 	url = https://github.com/cran/dtt
-	shallow = true
-	registered = true
 [submodule "mblm"]
 	path = mblm
 	url = https://github.com/cran/mblm
-	shallow = true
-	registered = true
 [submodule "moments"]
 	path = moments
 	url = https://github.com/cran/moments
-	shallow = true
-	registered = true
 [submodule "outliers"]
 	path = outliers
 	url = https://github.com/cran/outliers
-	shallow = true
-	registered = true
